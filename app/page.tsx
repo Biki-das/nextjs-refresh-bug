@@ -1,3 +1,5 @@
+"use client";
+
 import { Component } from "./components/Component";
 
 export default function Home() {
